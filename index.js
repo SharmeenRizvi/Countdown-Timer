@@ -19,5 +19,5 @@ var x = setInterval(function () {
         clearInterval(x);
         console.log(chalk.bgGreenBright("Expired"));
     }
-    console.log(chalk.bgRgb(128, 94, 1).whiteBright(`${days} days  |  ${hours} hours  | ${minutes} mins  | ${seconds} secs `));
+    console.log(chalk.bgRgb(241, 95, 246).whiteBright(`${days} days  |  ${hours} hours  | ${minutes} mins  | ${seconds} secs `));
 }, 1000);

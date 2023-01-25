@@ -29,7 +29,7 @@ var x = setInterval(function () {
     console.log(chalk.bgGreenBright("Expired"));
   }
   console.log(
-    chalk.bgRgb(128, 94, 1).whiteBright(
+    chalk.bgRgb(241, 95, 246).whiteBright(
         `${days} days  |  ${hours} hours  | ${minutes} mins  | ${seconds} secs `)
   );
 }, 1000);
