@@ -13,6 +13,7 @@
   "license": "ISC",
   "dependencies": {
     "chalk": "^5.2.0",
+    "countdown-timer-by-sharmeen": "^1.0.0",
     "g": "^2.0.1",
     "inquirer": "^9.1.4",
     "typescript": "^4.9.4"
